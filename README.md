@@ -3,12 +3,11 @@ Welcome to my Power BI portfolio! This repository contains various Power BI proj
 Each project is unique and showcases different aspects of data analysis, modeling, and visualization.
 This portfolio is designed to highlight my proficiency in Power BI and data storytelling.
 
-**Contents**
+## How to Use
+Each .pbix file can be opened in Power BI Desktop. You can explore the reports and adjust filters to view various insights and trends.
 
-**1. Revenue and Ratings Dashboard**
+## About Me
+I'm an aspiring data analyst with experience in creating insightful Power BI reports and dashboards. With a background in data analysis and a Google Data Analyst Professional Certificate, I’m focused on using data to unlock valuable business insights. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/karthikeyan11051998 "Visit My LinkedIn Profile") or view more of my work here.
 
-**Description**: An analysis of revenue and ratings using a dataset available on Kaggle.
-
-**Key Features**: Visual breakdown of revenue trends, ratings analysis, and KPIs for business insights.
-
-**Skills Demonstrated**: Data modeling, visualization, DAX functions, KPI creation.
+## Contact
+For any questions or collaboration opportunities, reach out to me at [karthikeyan11051998@gmail.com].
