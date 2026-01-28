@@ -42,5 +42,5 @@ This dashboard enables leadership to:
 
 ## Author
 - **Karthikeyan**
-- *Visit My [LinkedIn](www.linkedin.com/in/karthikeyan11051998 "Visit My LinkedIn Profile") profile.*
+- *Visit my [LinkedIn](www.linkedin.com/in/karthikeyan11051998) profile*
 - Aspiring Data Analyst | Power BI | SQL | Data Storytelling  
